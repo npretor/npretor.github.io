@@ -1,4 +1,4 @@
 # Nathan Pretorius
-### This site is for my personal projects
+### Generative design, home manufacturing, additive manufacturing, printed electronics
 
 <a href=nathanmakes.io> My other website </a>
